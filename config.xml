@@ -4,10 +4,10 @@
     id        = "com.phonegap.getting.started"
     version     = "1.0.0">
 
-    <name>umm: Unofficial Moodle Mobile app</name>
+    <name>Praboda Moodle Mobile app</name>
 
     <description>
-        A clone of the official Moodle Mobile app (iPhone)
+        Praboda Moodle Mobile app test1
     </description>
 
     <author href="http://twitter.com/jleyvadelgado"
